@@ -1,4 +1,4 @@
-# Loan Default Prediction using Machine Learning
+# Loan Default Prediction using Machine Learning [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vybhav-tk/Python_ML_Project/blob/main/LendingClub_Project.ipynb)
 
 Predicting whether a borrower will repay their loan or default is a critical task for financial institutions. This project utilizes machine learning techniques to predict loan repayment outcomes using historical loan data from LendingClub.
 
